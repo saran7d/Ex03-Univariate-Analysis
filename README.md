@@ -57,41 +57,61 @@ sns.histplot(x="Row ID", data=df)
 
 Dataset
 
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/1.jpeg)
+
 
 
 Dataset info
+
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/2.jpeg)
 
 
 
 Dataset describe
 
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/3.jpeg)
+
 
 
 Null value
+
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/4.jpeg)
 
 
 
 Data types
 
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/5.jpeg)
+
 
 
 Value count
+
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/6.jpeg)
 
 
 
 Boxplot
 
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/7.jpeg)
+
 
 
 Count plot
+
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/8.jpeg)
 
 
 
 Distribution plot
 
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/9.jpeg)
+
 
 
 Histogram plot
+
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/10.jpeg)
 
 # Result
 Thus we have read the given data and performed the univariate analysis with different types of plots.
