@@ -111,7 +111,7 @@ Distribution plot
 
 Histogram plot
 
-![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/10.jpeg)
+![](https://github.com/saran7d/Ex03-Univariate-Analysis/blob/main/99(10).jpeg)
 
 # Result
 Thus we have read the given data and performed the univariate analysis with different types of plots.
