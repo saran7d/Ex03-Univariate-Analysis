@@ -2,7 +2,7 @@
 
 DATE: 
 
-GITHUB LINK: 
+GITHUB LINK: https://github.com/saran7d/Ex03-Univariate-Analysis.git
 
 COLAB LINK:  https://colab.research.google.com/drive/1oG_mYXX-GgfAb9nW-3iCNnoskhopq1Iy?usp=sharing
 
