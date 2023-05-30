@@ -1,5 +1,12 @@
 # Ex03-Univariate-Analysis
 
+DATE: 
+
+GITHUB LINK: 
+
+COLAB LINK:  https://colab.research.google.com/drive/1oG_mYXX-GgfAb9nW-3iCNnoskhopq1Iy?usp=sharing
+
+
 # Aim
 To read the given dataset and perform univariate analysis.
 
